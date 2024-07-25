@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # smoquit
 
 
-![Alt text](https://github.com/xbadal/smoquit/blob/main/home.png?raw=true "Optional Title")
+![Alt text](https://github.com/xbadal/smoquit/blob/main/home.png?raw=true "Optional Title" )
 

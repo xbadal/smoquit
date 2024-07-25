@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # smoquit
 
-<img src="https://github.com/xbadal/smoquit/blob/main/home.png" width=50% height=50%>
+<img src="https://github.com/xbadal/smoquit/blob/main/home.png" width=40% height=40%>
